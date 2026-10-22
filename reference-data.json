@@ -1,0 +1,488 @@
+{
+  "drivers": [
+    {
+      "id": "ahmed-khan",
+      "name": "Ahmed Khan",
+      "km": 14200,
+      "missions": 42,
+      "hours": 298,
+      "fines": 5,
+      "accidents": 2,
+      "responsible": 1,
+      "source": "Driver Performance Dashboard Flow.png · light reference"
+    },
+    {
+      "id": "ravi-kumar",
+      "name": "Ravi Kumar",
+      "km": 12800,
+      "missions": 46,
+      "hours": 312,
+      "fines": null,
+      "accidents": null,
+      "responsible": null,
+      "source": "Driver Performance Dashboard Flow.png · light reference"
+    },
+    {
+      "id": "omar-hassan",
+      "name": "Omar Hassan",
+      "km": 11960,
+      "missions": 34,
+      "hours": 345,
+      "fines": null,
+      "accidents": null,
+      "responsible": null,
+      "source": "Driver Performance Dashboard Flow.png · light reference"
+    },
+    {
+      "id": "faisal-ali",
+      "name": "Faisal Ali",
+      "km": 10540,
+      "missions": 28,
+      "hours": 276,
+      "fines": null,
+      "accidents": null,
+      "responsible": null,
+      "source": "Driver Performance Dashboard Flow.png · light reference"
+    },
+    {
+      "id": "bilal-ahmed",
+      "name": "Bilal Ahmed",
+      "km": 9870,
+      "missions": 38,
+      "hours": 240,
+      "fines": null,
+      "accidents": null,
+      "responsible": null,
+      "source": "Driver Performance Dashboard Flow.png · light reference"
+    },
+    {
+      "id": "suresh-nair",
+      "name": "Suresh Nair",
+      "km": 8760,
+      "missions": 31,
+      "hours": 220,
+      "fines": null,
+      "accidents": null,
+      "responsible": null,
+      "source": "Driver Performance Dashboard Flow.png · light reference"
+    },
+    {
+      "id": "john-mathew",
+      "name": "John Mathew",
+      "km": 7950,
+      "missions": 26,
+      "hours": 254,
+      "fines": null,
+      "accidents": null,
+      "responsible": null,
+      "source": "Driver Performance Dashboard Flow.png · light reference"
+    },
+    {
+      "id": "khalid-hassan",
+      "name": "Khalid Hassan",
+      "km": 7260,
+      "missions": 24,
+      "hours": 196,
+      "fines": null,
+      "accidents": null,
+      "responsible": null,
+      "source": "Driver Performance Dashboard Flow.png · light reference"
+    },
+    {
+      "id": "vijay-singh",
+      "name": "Vijay Singh",
+      "km": 6980,
+      "missions": 22,
+      "hours": 172,
+      "fines": null,
+      "accidents": null,
+      "responsible": null,
+      "source": "Driver Performance Dashboard Flow.png · light reference"
+    },
+    {
+      "id": "ibrahim-khan",
+      "name": "Ibrahim Khan",
+      "km": 6420,
+      "missions": 20,
+      "hours": 152,
+      "fines": null,
+      "accidents": null,
+      "responsible": null,
+      "source": "Driver Performance Dashboard Flow.png · light reference"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "AMB-014",
+      "name": "AMB-014",
+      "km": 14200,
+      "missions": 42,
+      "model": "Toyota Prado",
+      "type": "SUV",
+      "year": 2016,
+      "status": "Available",
+      "source": "Vehicle Performance Dashboard UI Showcase.png · light reference"
+    },
+    {
+      "id": "AMB-027",
+      "name": "AMB-027",
+      "km": 12800,
+      "missions": 46,
+      "model": null,
+      "type": null,
+      "year": null,
+      "status": null,
+      "source": "Vehicle Performance Dashboard UI Showcase.png · light reference"
+    },
+    {
+      "id": "AMB-006",
+      "name": "AMB-006",
+      "km": 11960,
+      "missions": null,
+      "model": null,
+      "type": null,
+      "year": null,
+      "status": null,
+      "source": "Vehicle Performance Dashboard UI Showcase.png · light reference"
+    },
+    {
+      "id": "AMB-031",
+      "name": "AMB-031",
+      "km": 10540,
+      "missions": 34,
+      "model": null,
+      "type": null,
+      "year": null,
+      "status": null,
+      "source": "Vehicle Performance Dashboard UI Showcase.png · light reference"
+    },
+    {
+      "id": "AMB-009",
+      "name": "AMB-009",
+      "km": 9870,
+      "missions": null,
+      "model": null,
+      "type": null,
+      "year": null,
+      "status": null,
+      "source": "Vehicle Performance Dashboard UI Showcase.png · light reference"
+    },
+    {
+      "id": "AMB-022",
+      "name": "AMB-022",
+      "km": 8760,
+      "missions": 38,
+      "model": null,
+      "type": null,
+      "year": null,
+      "status": null,
+      "source": "Vehicle Performance Dashboard UI Showcase.png · light reference"
+    },
+    {
+      "id": "AMB-018",
+      "name": "AMB-018",
+      "km": 7950,
+      "missions": 28,
+      "model": null,
+      "type": null,
+      "year": null,
+      "status": null,
+      "source": "Vehicle Performance Dashboard UI Showcase.png · light reference"
+    },
+    {
+      "id": "AMB-004",
+      "name": "AMB-004",
+      "km": 7240,
+      "missions": 24,
+      "model": null,
+      "type": null,
+      "year": null,
+      "status": null,
+      "source": "Vehicle Performance Dashboard UI Showcase.png · light reference"
+    },
+    {
+      "id": "AMB-016",
+      "name": "AMB-016",
+      "km": 6980,
+      "missions": 22,
+      "model": null,
+      "type": null,
+      "year": null,
+      "status": null,
+      "source": "Vehicle Performance Dashboard UI Showcase.png · light reference"
+    },
+    {
+      "id": "AMB-025",
+      "name": "AMB-025",
+      "km": 6420,
+      "missions": 20,
+      "model": null,
+      "type": null,
+      "year": null,
+      "status": null,
+      "source": "Vehicle Performance Dashboard UI Showcase.png · light reference"
+    }
+  ],
+  "fines": [
+    {
+      "id": "FIN-2026-4587",
+      "date": "2026-10-18",
+      "time": "10:24",
+      "type": "Speeding (Exceeding Limit)",
+      "location": "Sheikh Zayed Road, Dubai",
+      "status": "Unpaid",
+      "vehicle": "DXB-7812 (Toyota Hiace)",
+      "source": "Fines.png"
+    },
+    {
+      "id": "FIN-2026-4419",
+      "date": "2026-10-03",
+      "time": "16:15",
+      "type": "Red Light Violation",
+      "location": "Al Khail Road, Dubai",
+      "status": "Paid",
+      "vehicle": "DXB-7812 (Toyota Hiace)",
+      "source": "Fines.png"
+    },
+    {
+      "id": "FIN-2026-4301",
+      "date": "2026-09-22",
+      "time": "09:40",
+      "type": "Mobile Phone Use While Driving",
+      "location": "Sheikh Mohammed Bin Zayed Rd, Sharjah",
+      "status": "Paid",
+      "vehicle": "DXB-7812 (Toyota Hiace)",
+      "source": "Fines.png"
+    },
+    {
+      "id": "FIN-2026-4210",
+      "date": "2026-09-14",
+      "time": "14:12",
+      "type": "Failure to Keep Safe Distance",
+      "location": "Emirates Road (E611), Dubai",
+      "status": "Unpaid",
+      "vehicle": "DXB-7812 (Toyota Hiace)",
+      "source": "Fines.png"
+    },
+    {
+      "id": "FIN-2026-4088",
+      "date": "2026-08-28",
+      "time": "11:30",
+      "type": "Incorrect Lane Change",
+      "location": "Al Ittihad Road, Dubai",
+      "status": "Paid",
+      "vehicle": "DXB-7812 (Toyota Hiace)",
+      "source": "Fines.png"
+    },
+    {
+      "id": "FIN-2026-3965",
+      "date": "2026-08-12",
+      "time": "08:45",
+      "type": "Speeding (Exceeding Limit)",
+      "location": "Ras Al Khor Road, Dubai",
+      "status": "Paid",
+      "vehicle": "DXB-7812 (Toyota Hiace)",
+      "source": "Fines.png"
+    },
+    {
+      "id": "FIN-2026-3850",
+      "date": "2026-08-01",
+      "time": "17:20",
+      "type": "No Seat Belt",
+      "location": "Dubai - Al Ain Road (E66)",
+      "status": "Paid",
+      "vehicle": "DXB-7812 (Toyota Hiace)",
+      "source": "Fines.png"
+    },
+    {
+      "id": "FIN-2026-3711",
+      "date": "2026-07-24",
+      "time": "12:05",
+      "type": "Using Bus Lane (Unauthorised)",
+      "location": "Sheikh Zayed Road, Dubai",
+      "status": "Unpaid",
+      "vehicle": "DXB-7812 (Toyota Hiace)",
+      "source": "Fines.png"
+    }
+  ],
+  "accidents": [
+    {
+      "id": "ACC-2026-0152",
+      "date": "2026-10-18",
+      "time": "10:30",
+      "type": "Rear-end collision with a stopped vehicle",
+      "location": "Sheikh Zayed Road, Dubai",
+      "responsibility": "Responsible",
+      "status": "Closed",
+      "source": "Accidents.png"
+    },
+    {
+      "id": "ACC-2026-0138",
+      "date": "2026-10-05",
+      "time": "14:15",
+      "type": "Side swipe while changing lane",
+      "location": "Al Khail Road, Dubai",
+      "responsibility": "Not Responsible",
+      "status": "Under Review",
+      "source": "Accidents.png"
+    },
+    {
+      "id": "ACC-2026-0126",
+      "date": "2026-09-22",
+      "time": "09:20",
+      "type": "Minor collision at intersection",
+      "location": "Business Bay, Dubai",
+      "responsibility": "Not Responsible",
+      "status": "Closed",
+      "source": "Accidents.png"
+    },
+    {
+      "id": "ACC-2026-0114",
+      "date": "2026-09-10",
+      "time": "16:40",
+      "type": "Vehicle scraped while parking",
+      "location": "Dubai Marina, Dubai",
+      "responsibility": "Not Responsible",
+      "status": "Closed",
+      "source": "Accidents.png"
+    },
+    {
+      "id": "ACC-2026-0098",
+      "date": "2026-09-03",
+      "time": "11:05",
+      "type": "Collision with roadside barrier",
+      "location": "Al Ain Road, Dubai",
+      "responsibility": "Not Responsible",
+      "status": "Closed",
+      "source": "Accidents.png"
+    },
+    {
+      "id": "ACC-2026-0087",
+      "date": "2026-08-20",
+      "time": "13:30",
+      "type": "Hit and run (other vehicle)",
+      "location": "Jebel Ali, Dubai",
+      "responsibility": "Not Responsible",
+      "status": "Closed",
+      "source": "Accidents.png"
+    },
+    {
+      "id": "ACC-2026-0065",
+      "date": "2026-08-08",
+      "time": "09:10",
+      "type": "Rear-end collision in traffic",
+      "location": "Deira, Dubai",
+      "responsibility": "Not Responsible",
+      "status": "Closed",
+      "source": "Accidents.png"
+    },
+    {
+      "id": "ACC-2026-0049",
+      "date": "2026-07-28",
+      "time": "17:45",
+      "type": "Minor side collision during turning",
+      "location": "Al Qusais, Dubai",
+      "responsibility": "Not Responsible",
+      "status": "Closed",
+      "source": "Accidents.png"
+    }
+  ],
+  "missions": [
+    {
+      "id": "REQ-4587",
+      "date": "2026-10-16",
+      "start": "2026-10-16T09:00",
+      "end": "2026-10-16T12:00",
+      "description": "Project review · Business Bay",
+      "requester": "Yousef Salem",
+      "unit": "Unit A",
+      "km": null,
+      "status": "In Progress",
+      "source": "MissionHistory.png"
+    },
+    {
+      "id": "REQ-4591",
+      "date": "2026-10-13",
+      "start": "2026-10-13T09:00",
+      "end": "2026-10-13T12:00",
+      "description": "Document delivery · DIFC",
+      "requester": "Khalid Rashid",
+      "unit": "Unit A",
+      "km": 75,
+      "status": "Closed",
+      "source": "MissionHistory.png"
+    },
+    {
+      "id": "REQ-4400",
+      "date": "2026-10-12",
+      "start": "2026-10-12T08:00",
+      "end": "2026-10-12T14:00",
+      "description": "Site inspection · Jebel Ali",
+      "requester": "Sara Al Mansoori",
+      "unit": "Unit A",
+      "km": 42,
+      "status": "Closed",
+      "source": "MissionHistory.png"
+    },
+    {
+      "id": "REQ-4406",
+      "date": "2026-10-06",
+      "start": "2026-10-06T08:00",
+      "end": "2026-10-06T14:00",
+      "description": "Operations visit · Dubai South",
+      "requester": "Hassan Ahmed",
+      "unit": "Unit C",
+      "km": 144,
+      "status": "Closed",
+      "source": "MissionHistory.png"
+    },
+    {
+      "id": "REQ-4412",
+      "date": "2026-09-30",
+      "start": "2026-09-30T08:00",
+      "end": "2026-09-30T14:00",
+      "description": "Team transfer · Abu Dhabi",
+      "requester": "Fatima Hassan",
+      "unit": "Unit A",
+      "km": 246,
+      "status": "Closed",
+      "source": "MissionHistory.png"
+    },
+    {
+      "id": "REQ-4418",
+      "date": "2026-09-24",
+      "start": "2026-09-24T08:00",
+      "end": "2026-09-24T14:00",
+      "description": "Document delivery · DIFC",
+      "requester": "Khalid Rashid",
+      "unit": "Unit C",
+      "km": 348,
+      "status": "Closed",
+      "source": "MissionHistory.png"
+    },
+    {
+      "id": "REQ-4385",
+      "date": "2026-09-18",
+      "start": "2026-09-18T09:00",
+      "end": "2026-09-18T12:00",
+      "description": "Client meeting · Business Bay",
+      "requester": "Omar Hassan",
+      "unit": "Unit A",
+      "km": 68,
+      "status": "Closed",
+      "source": "MissionHistory.png"
+    },
+    {
+      "id": "REQ-4369",
+      "date": "2026-09-12",
+      "start": "2026-09-12T08:00",
+      "end": "2026-09-12T16:00",
+      "description": "Site visit · Dubai Marina",
+      "requester": "Naveen Thomas",
+      "unit": "Unit B",
+      "km": 192,
+      "status": "Closed",
+      "source": "MissionHistory.png"
+    }
+  ]
+}
